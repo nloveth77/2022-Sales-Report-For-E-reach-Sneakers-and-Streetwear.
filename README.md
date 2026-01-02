@@ -1,7 +1,10 @@
 # 2022-Sales-Report-For-E-reach-Sneakers-and-Streetwear.
 Introduction:
+
 Footwears are basic necessities for human as it saves our foot and legs from injuries and sores. And the E-reach Sneakers and Streetwear is part of that shoe business that ensures that customers get quality and suitable footwears for their varying needs at affordable prices, different brands and types.  
+
 <img width="1860" height="753" alt="Dashboard For Sneakers   Streetwears" src="https://github.com/user-attachments/assets/d03ae0b7-fbd5-433d-8601-b5fc5c55242f" />
+
 Objective:
 
 This project is for E-reach Sneakers and Streetwears and it’s focused on analyzing their sales report for the year 2022. This analysis further aims at making customers see the varying brands and categories of sneakers and Streetwears they sell, and their mode of sales.
